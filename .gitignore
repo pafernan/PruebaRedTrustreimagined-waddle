@@ -1,0 +1,8 @@
+
+PruebaTecnica/bin/*
+PruebaTecnica/obj/*
+.vs/*
+packages/*
+
+PruebaTecnica_UnitTests/bin/*
+PruebaTecnica_UnitTests/obj/*
